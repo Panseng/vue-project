@@ -5,6 +5,7 @@ base on vue & vuex & router & element-ui
 
 临摹自 [华尔街见闻](https://wallstreetcn.com/)：大神[花裤衩](https://github.com/PanJiaChen)
 项目：[vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
+
 *没有完全临摹*
 
 ## Build Setup
